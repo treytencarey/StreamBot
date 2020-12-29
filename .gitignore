@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# Don't ignore these
+!*/
+!/readme.md
+!/.gitignore
+
+!/bot.py
+!/draw.py
+!/tictactoe.py
+!/repeatMessages.py
+!/run.bat
